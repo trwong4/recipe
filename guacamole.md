@@ -4,6 +4,7 @@ ingredients:
 - 2 tsp salt
 - jalapeno to taste
 - 1/2 cup chocolate chips
+- 1 tbsp cherry pie filling
 
 instructions:
 - cut and mash avocados
@@ -13,3 +14,4 @@ instructions:
 - add salt
 - stir in chocolate chips
 - mix well
+- top with cherry pie filling
